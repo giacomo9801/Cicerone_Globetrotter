@@ -42,4 +42,5 @@ autentificazione che permette di:
 -Gestire e monitorare le proprie create
 
 Sono state eseguite analisi sul codice tramite SONARCLOUD e a parte duplicazioni del codice, si presenta di buona qualità
+
 ![Senza titolo](https://user-images.githubusercontent.com/38552315/172212946-8eed352d-0313-4bc2-bf7f-a65f9cff072d.png)
